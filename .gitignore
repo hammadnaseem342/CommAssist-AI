@@ -13,6 +13,16 @@ xcuserdata/
 *.dSYM.zip
 *.dSYM
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
